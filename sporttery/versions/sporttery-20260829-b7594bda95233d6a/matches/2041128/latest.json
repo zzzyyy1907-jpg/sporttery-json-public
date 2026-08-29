@@ -1,0 +1,242 @@
+{
+  "dataset_version": "sporttery-20260829-b7594bda95233d6a",
+  "business_date": "2026-08-29",
+  "fetched_at": "2026-08-29T17:53:18.831+08:00",
+  "match_id": "2041128",
+  "match_num": "周六008",
+  "league": "瑞超",
+  "home_team": "埃尔夫斯堡",
+  "away_team": "代格福什",
+  "kickoff_time": "2026-08-29T21:00:00+08:00",
+  "close_time": null,
+  "close_time_source": "unavailable",
+  "sale_status": "Selling",
+  "single_status": {
+    "any_single_game": true,
+    "by_play_type": {
+      "had": false,
+      "hhad": false,
+      "crs": true,
+      "ttg": true,
+      "hafu": true
+    }
+  },
+  "had": {
+    "values": {
+      "win": 1.44,
+      "draw": 3.88,
+      "lose": 5.65
+    },
+    "official_updated_at": "2026-08-29T09:36:26+08:00"
+  },
+  "hhad": {
+    "handicap": -1,
+    "values": {
+      "win": 2.4,
+      "draw": 3.45,
+      "lose": 2.37
+    },
+    "official_updated_at": "2026-08-29T14:09:08+08:00"
+  },
+  "crs": {
+    "values": {
+      "1:0": 6.7,
+      "2:0": 7,
+      "2:1": 7,
+      "3:0": 10.5,
+      "3:1": 11.5,
+      "3:2": 24,
+      "4:0": 21,
+      "4:1": 24,
+      "4:2": 60,
+      "5:0": 50,
+      "5:1": 60,
+      "5:2": 150,
+      "胜其它": 40,
+      "0:0": 13,
+      "1:1": 7.5,
+      "2:2": 17,
+      "3:3": 90,
+      "平其它": 450,
+      "0:1": 15,
+      "0:2": 30,
+      "1:2": 16,
+      "0:3": 100,
+      "1:3": 60,
+      "2:3": 60,
+      "0:4": 400,
+      "1:4": 250,
+      "2:4": 250,
+      "0:5": 800,
+      "1:5": 600,
+      "2:5": 600,
+      "负其它": 300
+    },
+    "official_updated_at": "2026-08-29T09:36:26+08:00"
+  },
+  "ttg": {
+    "values": {
+      "0": 13,
+      "1": 5,
+      "2": 3.5,
+      "3": 3.7,
+      "4": 5.6,
+      "5": 10,
+      "6": 18,
+      "7+": 27
+    },
+    "official_updated_at": "2026-08-29T09:36:25+08:00"
+  },
+  "hafu": {
+    "values": {
+      "胜胜": 2.2,
+      "胜平": 19,
+      "胜负": 45,
+      "平胜": 3.95,
+      "平平": 5.85,
+      "平负": 14,
+      "负胜": 25,
+      "负平": 19,
+      "负负": 11.5
+    },
+    "official_updated_at": "2026-08-29T16:47:07+08:00"
+  },
+  "recent_official_changes": {
+    "had": null,
+    "hhad": {
+      "previous_official_published_at": "2026-08-29T09:36:18+08:00",
+      "official_published_at": "2026-08-29T14:09:03+08:00",
+      "changed_options": [
+        {
+          "option": "h",
+          "option_label": "让胜",
+          "old_price": 2.5,
+          "new_price": 2.4,
+          "price_change": -0.1,
+          "direction": "down",
+          "fair_probability_change_pp": 1.48,
+          "direction_reversal": false
+        },
+        {
+          "option": "d",
+          "option_label": "让平",
+          "old_price": 3.3,
+          "new_price": 3.45,
+          "price_change": 0.15,
+          "direction": "up",
+          "fair_probability_change_pp": -1.165,
+          "direction_reversal": false
+        },
+        {
+          "option": "a",
+          "option_label": "让负",
+          "old_price": 2.35,
+          "new_price": 2.37,
+          "price_change": 0.02,
+          "direction": "up",
+          "fair_probability_change_pp": -0.315,
+          "direction_reversal": false
+        }
+      ]
+    },
+    "crs": null,
+    "ttg": null,
+    "hafu": {
+      "previous_official_published_at": "2026-08-29T09:36:18+08:00",
+      "official_published_at": "2026-08-29T16:46:58+08:00",
+      "changed_options": [
+        {
+          "option": "hh",
+          "option_label": "胜胜",
+          "old_price": 2.2,
+          "new_price": 2.2,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0.008,
+          "direction_reversal": false
+        },
+        {
+          "option": "hd",
+          "option_label": "胜平",
+          "old_price": 19,
+          "new_price": 19,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "ha",
+          "option_label": "胜负",
+          "old_price": 45,
+          "new_price": 45,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0,
+          "direction_reversal": false
+        },
+        {
+          "option": "dh",
+          "option_label": "平胜",
+          "old_price": 4.1,
+          "new_price": 3.95,
+          "price_change": -0.15,
+          "direction": "down",
+          "fair_probability_change_pp": 0.773,
+          "direction_reversal": false
+        },
+        {
+          "option": "dd",
+          "option_label": "平平",
+          "old_price": 6,
+          "new_price": 5.85,
+          "price_change": -0.15,
+          "direction": "down",
+          "fair_probability_change_pp": 0.358,
+          "direction_reversal": false
+        },
+        {
+          "option": "da",
+          "option_label": "平负",
+          "old_price": 13,
+          "new_price": 14,
+          "price_change": 1,
+          "direction": "up",
+          "fair_probability_change_pp": -0.455,
+          "direction_reversal": false
+        },
+        {
+          "option": "ah",
+          "option_label": "负胜",
+          "old_price": 25,
+          "new_price": 25,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "ad",
+          "option_label": "负平",
+          "old_price": 19,
+          "new_price": 19,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "aa",
+          "option_label": "负负",
+          "old_price": 10.5,
+          "new_price": 11.5,
+          "price_change": 1,
+          "direction": "up",
+          "fair_probability_change_pp": -0.686,
+          "direction_reversal": false
+        }
+      ]
+    }
+  },
+  "checksum": "sha256:2e826a67ef698a42c345c02d9bbae41a426a915ad4f58aa8e2b8acfa87818d72"
+}

@@ -1,0 +1,677 @@
+{
+  "dataset_version": "sporttery-20260829-d1037b8e24a11294",
+  "business_date": "2026-08-29",
+  "fetched_at": "2026-08-29T17:01:05.257+08:00",
+  "match_id": "2041149",
+  "match_num": "周六029",
+  "league": "美职",
+  "home_team": "华盛顿联",
+  "away_team": "洛杉矶FC",
+  "kickoff_time": "2026-08-30T07:30:00+08:00",
+  "close_time": null,
+  "close_time_source": "unavailable",
+  "sale_status": "Selling",
+  "single_status": {
+    "any_single_game": true,
+    "by_play_type": {
+      "had": false,
+      "hhad": false,
+      "crs": true,
+      "ttg": true,
+      "hafu": true
+    }
+  },
+  "had": {
+    "values": {
+      "win": 3.36,
+      "draw": 3.5,
+      "lose": 1.83
+    },
+    "official_updated_at": "2026-08-29T10:46:35+08:00"
+  },
+  "hhad": {
+    "handicap": 1,
+    "values": {
+      "win": 1.74,
+      "draw": 3.7,
+      "lose": 3.52
+    },
+    "official_updated_at": "2026-08-29T10:46:46+08:00"
+  },
+  "crs": {
+    "values": {
+      "1:0": 13.5,
+      "2:0": 22,
+      "2:1": 9.5,
+      "3:0": 45,
+      "3:1": 26,
+      "3:2": 28,
+      "4:0": 150,
+      "4:1": 85,
+      "4:2": 90,
+      "5:0": 350,
+      "5:1": 225,
+      "5:2": 300,
+      "胜其它": 80,
+      "0:0": 16,
+      "1:1": 7,
+      "2:2": 11.5,
+      "3:3": 45,
+      "平其它": 275,
+      "0:1": 9,
+      "0:2": 11,
+      "1:2": 7.25,
+      "0:3": 18,
+      "1:3": 14,
+      "2:3": 20,
+      "0:4": 42,
+      "1:4": 32,
+      "2:4": 45,
+      "0:5": 110,
+      "1:5": 90,
+      "2:5": 125,
+      "负其它": 40
+    },
+    "official_updated_at": "2026-08-29T10:47:22+08:00"
+  },
+  "ttg": {
+    "values": {
+      "0": 16,
+      "1": 6,
+      "2": 4,
+      "3": 3.6,
+      "4": 4.75,
+      "5": 7.8,
+      "6": 15,
+      "7+": 23.5
+    },
+    "official_updated_at": "2026-08-29T10:47:09+08:00"
+  },
+  "hafu": {
+    "values": {
+      "胜胜": 5.75,
+      "胜平": 14,
+      "胜负": 22,
+      "平胜": 8.5,
+      "平平": 6.5,
+      "平负": 4.9,
+      "负胜": 30,
+      "负平": 14,
+      "负负": 3
+    },
+    "official_updated_at": "2026-08-29T10:46:59+08:00"
+  },
+  "recent_official_changes": {
+    "had": {
+      "previous_official_published_at": "2026-08-29T09:36:18+08:00",
+      "official_published_at": "2026-08-29T10:46:32+08:00",
+      "changed_options": [
+        {
+          "option": "h",
+          "option_label": "胜",
+          "old_price": 3.08,
+          "new_price": 3.36,
+          "price_change": 0.28,
+          "direction": "up",
+          "fair_probability_change_pp": -2.427,
+          "direction_reversal": false
+        },
+        {
+          "option": "d",
+          "option_label": "平",
+          "old_price": 3.5,
+          "new_price": 3.5,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.028,
+          "direction_reversal": false
+        },
+        {
+          "option": "a",
+          "option_label": "负",
+          "old_price": 1.93,
+          "new_price": 1.83,
+          "price_change": -0.1,
+          "direction": "down",
+          "fair_probability_change_pp": 2.455,
+          "direction_reversal": false
+        }
+      ]
+    },
+    "hhad": {
+      "previous_official_published_at": "2026-08-29T09:36:18+08:00",
+      "official_published_at": "2026-08-29T10:46:41+08:00",
+      "changed_options": [
+        {
+          "option": "h",
+          "option_label": "让胜",
+          "old_price": 1.68,
+          "new_price": 1.74,
+          "price_change": 0.06,
+          "direction": "up",
+          "fair_probability_change_pp": -1.808,
+          "direction_reversal": false
+        },
+        {
+          "option": "d",
+          "option_label": "让平",
+          "old_price": 3.75,
+          "new_price": 3.7,
+          "price_change": -0.05,
+          "direction": "down",
+          "fair_probability_change_pp": 0.324,
+          "direction_reversal": false
+        },
+        {
+          "option": "a",
+          "option_label": "让负",
+          "old_price": 3.74,
+          "new_price": 3.52,
+          "price_change": -0.22,
+          "direction": "down",
+          "fair_probability_change_pp": 1.484,
+          "direction_reversal": false
+        }
+      ]
+    },
+    "crs": {
+      "previous_official_published_at": "2026-08-29T09:36:18+08:00",
+      "official_published_at": "2026-08-29T10:47:19+08:00",
+      "changed_options": [
+        {
+          "option": "s01s00",
+          "option_label": "1:0",
+          "old_price": 13.5,
+          "new_price": 13.5,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.002,
+          "direction_reversal": false
+        },
+        {
+          "option": "s02s00",
+          "option_label": "2:0",
+          "old_price": 22,
+          "new_price": 22,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "s02s01",
+          "option_label": "2:1",
+          "old_price": 9,
+          "new_price": 9.5,
+          "price_change": 0.5,
+          "direction": "up",
+          "fair_probability_change_pp": -0.439,
+          "direction_reversal": false
+        },
+        {
+          "option": "s03s00",
+          "option_label": "3:0",
+          "old_price": 43,
+          "new_price": 45,
+          "price_change": 2,
+          "direction": "up",
+          "fair_probability_change_pp": -0.078,
+          "direction_reversal": false
+        },
+        {
+          "option": "s03s01",
+          "option_label": "3:1",
+          "old_price": 22,
+          "new_price": 26,
+          "price_change": 4,
+          "direction": "up",
+          "fair_probability_change_pp": -0.523,
+          "direction_reversal": false
+        },
+        {
+          "option": "s03s02",
+          "option_label": "3:2",
+          "old_price": 25,
+          "new_price": 28,
+          "price_change": 3,
+          "direction": "up",
+          "fair_probability_change_pp": -0.321,
+          "direction_reversal": false
+        },
+        {
+          "option": "s04s00",
+          "option_label": "4:0",
+          "old_price": 120,
+          "new_price": 150,
+          "price_change": 30,
+          "direction": "up",
+          "fair_probability_change_pp": -0.125,
+          "direction_reversal": false
+        },
+        {
+          "option": "s04s01",
+          "option_label": "4:1",
+          "old_price": 75,
+          "new_price": 85,
+          "price_change": 10,
+          "direction": "up",
+          "fair_probability_change_pp": -0.117,
+          "direction_reversal": false
+        },
+        {
+          "option": "s04s02",
+          "option_label": "4:2",
+          "old_price": 80,
+          "new_price": 90,
+          "price_change": 10,
+          "direction": "up",
+          "fair_probability_change_pp": -0.104,
+          "direction_reversal": false
+        },
+        {
+          "option": "s05s00",
+          "option_label": "5:0",
+          "old_price": 350,
+          "new_price": 350,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0,
+          "direction_reversal": false
+        },
+        {
+          "option": "s05s01",
+          "option_label": "5:1",
+          "old_price": 225,
+          "new_price": 225,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0,
+          "direction_reversal": false
+        },
+        {
+          "option": "s05s02",
+          "option_label": "5:2",
+          "old_price": 300,
+          "new_price": 300,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0,
+          "direction_reversal": false
+        },
+        {
+          "option": "s-1sh",
+          "option_label": "胜其它",
+          "old_price": 70,
+          "new_price": 80,
+          "price_change": 10,
+          "direction": "up",
+          "fair_probability_change_pp": -0.134,
+          "direction_reversal": false
+        },
+        {
+          "option": "s00s00",
+          "option_label": "0:0",
+          "old_price": 17,
+          "new_price": 16,
+          "price_change": -1,
+          "direction": "down",
+          "fair_probability_change_pp": 0.273,
+          "direction_reversal": false
+        },
+        {
+          "option": "s01s01",
+          "option_label": "1:1",
+          "old_price": 7,
+          "new_price": 7,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.004,
+          "direction_reversal": false
+        },
+        {
+          "option": "s02s02",
+          "option_label": "2:2",
+          "old_price": 11,
+          "new_price": 11.5,
+          "price_change": 0.5,
+          "direction": "up",
+          "fair_probability_change_pp": -0.297,
+          "direction_reversal": false
+        },
+        {
+          "option": "s03s03",
+          "option_label": "3:3",
+          "old_price": 45,
+          "new_price": 45,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "s-1sd",
+          "option_label": "平其它",
+          "old_price": 275,
+          "new_price": 275,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0,
+          "direction_reversal": false
+        },
+        {
+          "option": "s00s01",
+          "option_label": "0:1",
+          "old_price": 9.5,
+          "new_price": 9,
+          "price_change": -0.5,
+          "direction": "down",
+          "fair_probability_change_pp": 0.434,
+          "direction_reversal": false
+        },
+        {
+          "option": "s00s02",
+          "option_label": "0:2",
+          "old_price": 12,
+          "new_price": 11,
+          "price_change": -1,
+          "direction": "down",
+          "fair_probability_change_pp": 0.563,
+          "direction_reversal": false
+        },
+        {
+          "option": "s01s02",
+          "option_label": "1:2",
+          "old_price": 7.5,
+          "new_price": 7.25,
+          "price_change": -0.25,
+          "direction": "down",
+          "fair_probability_change_pp": 0.34,
+          "direction_reversal": false
+        },
+        {
+          "option": "s00s03",
+          "option_label": "0:3",
+          "old_price": 19,
+          "new_price": 18,
+          "price_change": -1,
+          "direction": "down",
+          "fair_probability_change_pp": 0.217,
+          "direction_reversal": false
+        },
+        {
+          "option": "s01s03",
+          "option_label": "1:3",
+          "old_price": 14,
+          "new_price": 14,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.002,
+          "direction_reversal": false
+        },
+        {
+          "option": "s02s03",
+          "option_label": "2:3",
+          "old_price": 20,
+          "new_price": 20,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "s00s04",
+          "option_label": "0:4",
+          "old_price": 45,
+          "new_price": 42,
+          "price_change": -3,
+          "direction": "down",
+          "fair_probability_change_pp": 0.118,
+          "direction_reversal": false
+        },
+        {
+          "option": "s01s04",
+          "option_label": "1:4",
+          "old_price": 32,
+          "new_price": 32,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "s02s04",
+          "option_label": "2:4",
+          "old_price": 45,
+          "new_price": 45,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "s00s05",
+          "option_label": "0:5",
+          "old_price": 110,
+          "new_price": 110,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0,
+          "direction_reversal": false
+        },
+        {
+          "option": "s01s05",
+          "option_label": "1:5",
+          "old_price": 90,
+          "new_price": 90,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0,
+          "direction_reversal": false
+        },
+        {
+          "option": "s02s05",
+          "option_label": "2:5",
+          "old_price": 125,
+          "new_price": 125,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0,
+          "direction_reversal": false
+        },
+        {
+          "option": "s-1sa",
+          "option_label": "负其它",
+          "old_price": 45,
+          "new_price": 40,
+          "price_change": -5,
+          "direction": "down",
+          "fair_probability_change_pp": 0.207,
+          "direction_reversal": false
+        }
+      ]
+    },
+    "ttg": {
+      "previous_official_published_at": "2026-08-29T09:36:18+08:00",
+      "official_published_at": "2026-08-29T10:47:08+08:00",
+      "changed_options": [
+        {
+          "option": "s0",
+          "option_label": "0",
+          "old_price": 17,
+          "new_price": 16,
+          "price_change": -1,
+          "direction": "down",
+          "fair_probability_change_pp": 0.302,
+          "direction_reversal": false
+        },
+        {
+          "option": "s1",
+          "option_label": "1",
+          "old_price": 6.3,
+          "new_price": 6,
+          "price_change": -0.3,
+          "direction": "down",
+          "fair_probability_change_pp": 0.651,
+          "direction_reversal": false
+        },
+        {
+          "option": "s2",
+          "option_label": "2",
+          "old_price": 4,
+          "new_price": 4,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.012,
+          "direction_reversal": false
+        },
+        {
+          "option": "s3",
+          "option_label": "3",
+          "old_price": 3.6,
+          "new_price": 3.6,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.014,
+          "direction_reversal": false
+        },
+        {
+          "option": "s4",
+          "option_label": "4",
+          "old_price": 4.75,
+          "new_price": 4.75,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.01,
+          "direction_reversal": false
+        },
+        {
+          "option": "s5",
+          "option_label": "5",
+          "old_price": 7.55,
+          "new_price": 7.8,
+          "price_change": 0.25,
+          "direction": "up",
+          "fair_probability_change_pp": -0.359,
+          "direction_reversal": false
+        },
+        {
+          "option": "s6",
+          "option_label": "6",
+          "old_price": 14,
+          "new_price": 15,
+          "price_change": 1,
+          "direction": "up",
+          "fair_probability_change_pp": -0.399,
+          "direction_reversal": false
+        },
+        {
+          "option": "s7",
+          "option_label": "7+",
+          "old_price": 22.5,
+          "new_price": 23.5,
+          "price_change": 1,
+          "direction": "up",
+          "fair_probability_change_pp": -0.159,
+          "direction_reversal": false
+        }
+      ]
+    },
+    "hafu": {
+      "previous_official_published_at": "2026-08-29T09:36:18+08:00",
+      "official_published_at": "2026-08-29T10:46:56+08:00",
+      "changed_options": [
+        {
+          "option": "hh",
+          "option_label": "胜胜",
+          "old_price": 5.35,
+          "new_price": 5.75,
+          "price_change": 0.4,
+          "direction": "up",
+          "fair_probability_change_pp": -1.082,
+          "direction_reversal": false
+        },
+        {
+          "option": "hd",
+          "option_label": "胜平",
+          "old_price": 14,
+          "new_price": 14,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "ha",
+          "option_label": "胜负",
+          "old_price": 22,
+          "new_price": 22,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "dh",
+          "option_label": "平胜",
+          "old_price": 7.5,
+          "new_price": 8.5,
+          "price_change": 1,
+          "direction": "up",
+          "fair_probability_change_pp": -1.304,
+          "direction_reversal": false
+        },
+        {
+          "option": "dd",
+          "option_label": "平平",
+          "old_price": 6.5,
+          "new_price": 6.5,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.002,
+          "direction_reversal": false
+        },
+        {
+          "option": "da",
+          "option_label": "平负",
+          "old_price": 5.2,
+          "new_price": 4.9,
+          "price_change": -0.3,
+          "direction": "down",
+          "fair_probability_change_pp": 0.975,
+          "direction_reversal": false
+        },
+        {
+          "option": "ah",
+          "option_label": "负胜",
+          "old_price": 27,
+          "new_price": 30,
+          "price_change": 3,
+          "direction": "up",
+          "fair_probability_change_pp": -0.308,
+          "direction_reversal": false
+        },
+        {
+          "option": "ad",
+          "option_label": "负平",
+          "old_price": 14,
+          "new_price": 14,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "aa",
+          "option_label": "负负",
+          "old_price": 3.2,
+          "new_price": 3,
+          "price_change": -0.2,
+          "direction": "down",
+          "fair_probability_change_pp": 1.725,
+          "direction_reversal": false
+        }
+      ]
+    }
+  },
+  "checksum": "sha256:f8f1cbef6c0a0561407eb1625b3b7209d90b4b20d4e6207d01fbc2c623d50317"
+}

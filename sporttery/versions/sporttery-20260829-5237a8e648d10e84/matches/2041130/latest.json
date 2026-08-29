@@ -1,0 +1,362 @@
+{
+  "dataset_version": "sporttery-20260829-5237a8e648d10e84",
+  "business_date": "2026-08-29",
+  "fetched_at": "2026-08-29T16:07:44.890+08:00",
+  "match_id": "2041130",
+  "match_num": "周六010",
+  "league": "德甲",
+  "home_team": "莱比锡红牛",
+  "away_team": "门兴格拉德巴赫",
+  "kickoff_time": "2026-08-29T21:30:00+08:00",
+  "close_time": null,
+  "close_time_source": "unavailable",
+  "sale_status": "Selling",
+  "single_status": {
+    "any_single_game": true,
+    "by_play_type": {
+      "had": false,
+      "hhad": false,
+      "crs": true,
+      "ttg": true,
+      "hafu": true
+    }
+  },
+  "had": {
+    "values": {
+      "win": 1.41,
+      "draw": 4.35,
+      "lose": 5.25
+    },
+    "official_updated_at": "2026-08-29T15:39:12+08:00"
+  },
+  "hhad": {
+    "handicap": -1,
+    "values": {
+      "win": 2.18,
+      "draw": 3.8,
+      "lose": 2.46
+    },
+    "official_updated_at": "2026-08-29T15:39:18+08:00"
+  },
+  "crs": {
+    "values": {
+      "1:0": 11,
+      "2:0": 9,
+      "2:1": 7,
+      "3:0": 12,
+      "3:1": 10,
+      "3:2": 16,
+      "4:0": 22,
+      "4:1": 19,
+      "4:2": 30,
+      "5:0": 50,
+      "5:1": 39,
+      "5:2": 65,
+      "胜其它": 19,
+      "0:0": 23,
+      "1:1": 9.5,
+      "2:2": 13,
+      "3:3": 40,
+      "平其它": 200,
+      "0:1": 22,
+      "0:2": 35,
+      "1:2": 14,
+      "0:3": 100,
+      "1:3": 37,
+      "2:3": 33,
+      "0:4": 350,
+      "1:4": 125,
+      "2:4": 125,
+      "0:5": 750,
+      "1:5": 500,
+      "2:5": 500,
+      "负其它": 100
+    },
+    "official_updated_at": "2026-08-28T09:47:11+08:00"
+  },
+  "ttg": {
+    "values": {
+      "0": 23,
+      "1": 7.8,
+      "2": 4.6,
+      "3": 3.7,
+      "4": 4.5,
+      "5": 6.9,
+      "6": 10,
+      "7+": 13
+    },
+    "official_updated_at": "2026-08-29T12:57:25+08:00"
+  },
+  "hafu": {
+    "values": {
+      "胜胜": 2.05,
+      "胜平": 17,
+      "胜负": 38,
+      "平胜": 4.65,
+      "平平": 8.3,
+      "平负": 12.5,
+      "负胜": 20,
+      "负平": 17,
+      "负负": 9.3
+    },
+    "official_updated_at": "2026-08-29T15:39:25+08:00"
+  },
+  "recent_official_changes": {
+    "had": {
+      "previous_official_published_at": "2026-08-28T09:47:05+08:00",
+      "official_published_at": "2026-08-29T15:39:10+08:00",
+      "changed_options": [
+        {
+          "option": "h",
+          "option_label": "胜",
+          "old_price": 1.43,
+          "new_price": 1.41,
+          "price_change": -0.02,
+          "direction": "down",
+          "fair_probability_change_pp": 0.894,
+          "direction_reversal": false
+        },
+        {
+          "option": "d",
+          "option_label": "平",
+          "old_price": 4.3,
+          "new_price": 4.35,
+          "price_change": 0.05,
+          "direction": "up",
+          "fair_probability_change_pp": -0.231,
+          "direction_reversal": false
+        },
+        {
+          "option": "a",
+          "option_label": "负",
+          "old_price": 5.05,
+          "new_price": 5.25,
+          "price_change": 0.2,
+          "direction": "up",
+          "fair_probability_change_pp": -0.663,
+          "direction_reversal": false
+        }
+      ]
+    },
+    "hhad": {
+      "previous_official_published_at": "2026-08-29T12:23:24+08:00",
+      "official_published_at": "2026-08-29T15:39:15+08:00",
+      "changed_options": [
+        {
+          "option": "h",
+          "option_label": "让胜",
+          "old_price": 2.27,
+          "new_price": 2.18,
+          "price_change": -0.09,
+          "direction": "down",
+          "fair_probability_change_pp": 1.641,
+          "direction_reversal": false
+        },
+        {
+          "option": "d",
+          "option_label": "让平",
+          "old_price": 3.8,
+          "new_price": 3.8,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0.017,
+          "direction_reversal": false
+        },
+        {
+          "option": "a",
+          "option_label": "让负",
+          "old_price": 2.35,
+          "new_price": 2.46,
+          "price_change": 0.11,
+          "direction": "up",
+          "fair_probability_change_pp": -1.658,
+          "direction_reversal": false
+        }
+      ]
+    },
+    "crs": null,
+    "ttg": {
+      "previous_official_published_at": "2026-08-28T09:47:05+08:00",
+      "official_published_at": "2026-08-29T12:57:22+08:00",
+      "changed_options": [
+        {
+          "option": "s0",
+          "option_label": "0",
+          "old_price": 23,
+          "new_price": 23,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0.003,
+          "direction_reversal": false
+        },
+        {
+          "option": "s1",
+          "option_label": "1",
+          "old_price": 7.6,
+          "new_price": 7.8,
+          "price_change": 0.2,
+          "direction": "up",
+          "fair_probability_change_pp": -0.272,
+          "direction_reversal": false
+        },
+        {
+          "option": "s2",
+          "option_label": "2",
+          "old_price": 4.4,
+          "new_price": 4.6,
+          "price_change": 0.2,
+          "direction": "up",
+          "fair_probability_change_pp": -0.807,
+          "direction_reversal": false
+        },
+        {
+          "option": "s3",
+          "option_label": "3",
+          "old_price": 3.7,
+          "new_price": 3.7,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0.017,
+          "direction_reversal": false
+        },
+        {
+          "option": "s4",
+          "option_label": "4",
+          "old_price": 4.5,
+          "new_price": 4.5,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0.014,
+          "direction_reversal": false
+        },
+        {
+          "option": "s5",
+          "option_label": "5",
+          "old_price": 7,
+          "new_price": 6.9,
+          "price_change": -0.1,
+          "direction": "down",
+          "fair_probability_change_pp": 0.181,
+          "direction_reversal": false
+        },
+        {
+          "option": "s6",
+          "option_label": "6",
+          "old_price": 10.5,
+          "new_price": 10,
+          "price_change": -0.5,
+          "direction": "down",
+          "fair_probability_change_pp": 0.402,
+          "direction_reversal": false
+        },
+        {
+          "option": "s7",
+          "option_label": "7+",
+          "old_price": 14,
+          "new_price": 13,
+          "price_change": -1,
+          "direction": "down",
+          "fair_probability_change_pp": 0.461,
+          "direction_reversal": false
+        }
+      ]
+    },
+    "hafu": {
+      "previous_official_published_at": "2026-08-28T09:47:05+08:00",
+      "official_published_at": "2026-08-29T15:39:21+08:00",
+      "changed_options": [
+        {
+          "option": "hh",
+          "option_label": "胜胜",
+          "old_price": 2.1,
+          "new_price": 2.05,
+          "price_change": -0.05,
+          "direction": "down",
+          "fair_probability_change_pp": 0.958,
+          "direction_reversal": false
+        },
+        {
+          "option": "hd",
+          "option_label": "胜平",
+          "old_price": 17,
+          "new_price": 17,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "ha",
+          "option_label": "胜负",
+          "old_price": 38,
+          "new_price": 38,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0,
+          "direction_reversal": false
+        },
+        {
+          "option": "dh",
+          "option_label": "平胜",
+          "old_price": 4.65,
+          "new_price": 4.65,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.003,
+          "direction_reversal": false
+        },
+        {
+          "option": "dd",
+          "option_label": "平平",
+          "old_price": 8,
+          "new_price": 8.3,
+          "price_change": 0.3,
+          "direction": "up",
+          "fair_probability_change_pp": -0.377,
+          "direction_reversal": false
+        },
+        {
+          "option": "da",
+          "option_label": "平负",
+          "old_price": 12,
+          "new_price": 12.5,
+          "price_change": 0.5,
+          "direction": "up",
+          "fair_probability_change_pp": -0.278,
+          "direction_reversal": false
+        },
+        {
+          "option": "ah",
+          "option_label": "负胜",
+          "old_price": 20,
+          "new_price": 20,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "ad",
+          "option_label": "负平",
+          "old_price": 17,
+          "new_price": 17,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": -0.001,
+          "direction_reversal": false
+        },
+        {
+          "option": "aa",
+          "option_label": "负负",
+          "old_price": 9,
+          "new_price": 9.3,
+          "price_change": 0.3,
+          "direction": "up",
+          "fair_probability_change_pp": -0.299,
+          "direction_reversal": false
+        }
+      ]
+    }
+  },
+  "checksum": "sha256:15979136327d86d2fa387dcca693cfe65ddef8151af330d58781039d88b0f818"
+}
