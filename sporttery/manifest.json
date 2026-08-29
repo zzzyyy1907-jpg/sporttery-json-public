@@ -1,81 +1,16 @@
 {
   "schema_version": "sporttery-public-manifest-v1.3",
-  "dataset_version": "sporttery-20260829-b7594bda95233d6a",
+  "dataset_version": "sporttery-20260829-52ada8bd8801e6fa",
   "business_date": "2026-08-29",
-  "fetched_at": "2026-08-29T17:53:18.831+08:00",
-  "published_at": "2026-08-29T17:53:21.900+08:00",
+  "fetched_at": "2026-08-29T20:57:33.331+08:00",
+  "published_at": "2026-08-29T20:57:37.984+08:00",
   "data_status": "ok",
-  "match_count": 27,
-  "official_history_node_count": 365,
+  "match_count": 22,
+  "official_history_node_count": 357,
   "status_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/status.json",
   "latest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/latest.json",
   "official_history_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/official_history.json",
   "matches": [
-    {
-      "match_id": "2041187",
-      "match_num": "周六003",
-      "league": "日乙",
-      "home_team": "大宫松鼠RB",
-      "away_team": "湘南海洋",
-      "kickoff_time": "2026-08-29T18:00:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041187/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041187/official_history.json"
-    },
-    {
-      "match_id": "2041125",
-      "match_num": "周六004",
-      "league": "韩职",
-      "home_team": "蔚山现代",
-      "away_team": "金泉尚武",
-      "kickoff_time": "2026-08-29T18:30:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041125/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041125/official_history.json"
-    },
-    {
-      "match_id": "2041188",
-      "match_num": "周六005",
-      "league": "德乙",
-      "home_team": "卡尔斯鲁厄",
-      "away_team": "沃尔夫斯堡",
-      "kickoff_time": "2026-08-29T19:00:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041188/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041188/official_history.json"
-    },
-    {
-      "match_id": "2041126",
-      "match_num": "周六006",
-      "league": "英超",
-      "home_team": "利物浦",
-      "away_team": "诺丁汉森林",
-      "kickoff_time": "2026-08-29T19:30:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041126/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041126/official_history.json"
-    },
-    {
-      "match_id": "2041127",
-      "match_num": "周六007",
-      "league": "英冠",
-      "home_team": "伍尔弗汉普顿",
-      "away_team": "斯托克城",
-      "kickoff_time": "2026-08-29T19:30:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041127/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041127/official_history.json"
-    },
     {
       "match_id": "2041128",
       "match_num": "周六008",
@@ -363,6 +298,5 @@
       "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041149/official_history.json"
     }
   ],
-  "manifest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/manifest.json",
-  "checksum": "sha256:7cb88483c6ccbfe4c44d80b146d718c665f8d480d0a63fc60e7e5d89c2974411"
+  "checksum": "sha256:d63184f8f3db1929ecc8c947b1d870e4d705a820b5522fe14eae2b2200944032"
 }
