@@ -1,42 +1,16 @@
 {
   "schema_version": "sporttery-public-manifest-v1.3",
-  "dataset_version": "sporttery-20260829-47da235a936e11d9",
+  "dataset_version": "sporttery-20260829-f5fa4e6aeb420067",
   "business_date": "2026-08-29",
-  "fetched_at": "2026-08-29T22:18:15.109+08:00",
-  "published_at": "2026-08-29T22:18:17.894+08:00",
+  "fetched_at": "2026-08-29T23:19:46.993+08:00",
+  "published_at": "2026-08-29T23:19:51.063+08:00",
   "data_status": "ok",
-  "match_count": 14,
-  "official_history_node_count": 256,
+  "match_count": 12,
+  "official_history_node_count": 219,
   "status_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/status.json",
   "latest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/latest.json",
   "official_history_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/official_history.json",
   "matches": [
-    {
-      "match_id": "2041136",
-      "match_num": "周六016",
-      "league": "西甲",
-      "home_team": "莱万特",
-      "away_team": "皇家贝蒂斯",
-      "kickoff_time": "2026-08-29T23:00:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041136/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041136/official_history.json"
-    },
-    {
-      "match_id": "2041137",
-      "match_num": "周六017",
-      "league": "法甲",
-      "home_team": "斯特拉斯堡",
-      "away_team": "朗斯",
-      "kickoff_time": "2026-08-29T23:15:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041137/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041137/official_history.json"
-    },
     {
       "match_id": "2041138",
       "match_num": "周六018",
@@ -194,5 +168,5 @@
       "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041149/official_history.json"
     }
   ],
-  "checksum": "sha256:7318a11667d348e519bdeaacd6cee64b94fa0c8118f3e0b46d80c122f657a69b"
+  "checksum": "sha256:26daa5a1898d68f8b65159541dab8f7a80b52b50ef78130f8e354ea460bc77a9"
 }

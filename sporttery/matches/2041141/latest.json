@@ -1,7 +1,7 @@
 {
-  "dataset_version": "sporttery-20260829-47da235a936e11d9",
+  "dataset_version": "sporttery-20260829-f5fa4e6aeb420067",
   "business_date": "2026-08-29",
-  "fetched_at": "2026-08-29T22:18:15.109+08:00",
+  "fetched_at": "2026-08-29T23:19:46.993+08:00",
   "match_id": "2041141",
   "match_num": "周六021",
   "league": "意甲",
@@ -673,5 +673,5 @@
       ]
     }
   },
-  "checksum": "sha256:f222eef3fb04e9c77c273439cc73fae07e87ffd90d651671b5057524ee6d00cb"
+  "checksum": "sha256:34bb2d5efe957549a1f8b1b82b839cc76c2d69c8fe19d45bf8a872dec26b4b3a"
 }

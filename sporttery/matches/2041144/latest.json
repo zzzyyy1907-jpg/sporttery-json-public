@@ -1,7 +1,7 @@
 {
-  "dataset_version": "sporttery-20260829-47da235a936e11d9",
+  "dataset_version": "sporttery-20260829-f5fa4e6aeb420067",
   "business_date": "2026-08-29",
-  "fetched_at": "2026-08-29T22:18:15.109+08:00",
+  "fetched_at": "2026-08-29T23:19:46.993+08:00",
   "match_id": "2041144",
   "match_num": "周六024",
   "league": "荷甲",
@@ -77,15 +77,15 @@
   "ttg": {
     "values": {
       "0": 32,
-      "1": 9.55,
+      "1": 9.75,
       "2": 5.35,
-      "3": 3.8,
+      "3": 4,
       "4": 4.2,
-      "5": 5.9,
-      "6": 9,
-      "7+": 10
+      "5": 5.75,
+      "6": 8.75,
+      "7+": 9.3
     },
-    "official_updated_at": "2026-08-29T17:31:11+08:00"
+    "official_updated_at": "2026-08-29T22:45:59+08:00"
   },
   "hafu": {
     "values": {
@@ -491,8 +491,8 @@
       ]
     },
     "ttg": {
-      "previous_official_published_at": "2026-08-29T14:08:36+08:00",
-      "official_published_at": "2026-08-29T17:31:00+08:00",
+      "previous_official_published_at": "2026-08-29T17:31:00+08:00",
+      "official_published_at": "2026-08-29T22:45:51+08:00",
       "changed_options": [
         {
           "option": "s0",
@@ -501,77 +501,77 @@
           "new_price": 32,
           "price_change": 0,
           "direction": "unchanged",
-          "fair_probability_change_pp": -0.001,
+          "fair_probability_change_pp": 0,
           "direction_reversal": false
         },
         {
           "option": "s1",
           "option_label": "1",
-          "old_price": 9,
-          "new_price": 9.55,
-          "price_change": 0.55,
+          "old_price": 9.55,
+          "new_price": 9.75,
+          "price_change": 0.2,
           "direction": "up",
-          "fair_probability_change_pp": -0.535,
+          "fair_probability_change_pp": -0.177,
           "direction_reversal": false
         },
         {
           "option": "s2",
           "option_label": "2",
-          "old_price": 5.2,
+          "old_price": 5.35,
           "new_price": 5.35,
-          "price_change": 0.15,
-          "direction": "up",
-          "fair_probability_change_pp": -0.454,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0.002,
           "direction_reversal": false
         },
         {
           "option": "s3",
           "option_label": "3",
-          "old_price": 3.9,
-          "new_price": 3.8,
-          "price_change": -0.1,
-          "direction": "down",
-          "fair_probability_change_pp": 0.551,
-          "direction_reversal": false
+          "old_price": 3.8,
+          "new_price": 4,
+          "price_change": 0.2,
+          "direction": "up",
+          "fair_probability_change_pp": -1.089,
+          "direction_reversal": true
         },
         {
           "option": "s4",
           "option_label": "4",
-          "old_price": 4.3,
+          "old_price": 4.2,
           "new_price": 4.2,
-          "price_change": -0.1,
-          "direction": "down",
-          "fair_probability_change_pp": 0.452,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0.003,
           "direction_reversal": false
         },
         {
           "option": "s5",
           "option_label": "5",
           "old_price": 5.9,
-          "new_price": 5.9,
-          "price_change": 0,
-          "direction": "unchanged",
-          "fair_probability_change_pp": -0.006,
+          "new_price": 5.75,
+          "price_change": -0.15,
+          "direction": "down",
+          "fair_probability_change_pp": 0.369,
           "direction_reversal": false
         },
         {
           "option": "s6",
           "option_label": "6",
           "old_price": 9,
-          "new_price": 9,
-          "price_change": 0,
-          "direction": "unchanged",
-          "fair_probability_change_pp": -0.004,
+          "new_price": 8.75,
+          "price_change": -0.25,
+          "direction": "down",
+          "fair_probability_change_pp": 0.265,
           "direction_reversal": false
         },
         {
           "option": "s7",
           "option_label": "7+",
           "old_price": 10,
-          "new_price": 10,
-          "price_change": 0,
-          "direction": "unchanged",
-          "fair_probability_change_pp": -0.003,
+          "new_price": 9.3,
+          "price_change": -0.7,
+          "direction": "down",
+          "fair_probability_change_pp": 0.626,
           "direction_reversal": false
         }
       ]
@@ -673,5 +673,5 @@
       ]
     }
   },
-  "checksum": "sha256:6db8540d19728f73d43726989150c13cc69e248e3f9eacf26bf9c112baf0dfc7"
+  "checksum": "sha256:870f3fba42d1a79ebef225de018dba54e2892aa5afd50179fb3a4a8a57c01d08"
 }
