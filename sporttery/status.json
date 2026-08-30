@@ -1,21 +1,29 @@
 {
-  "schema_version": "sporttery-public-v1.3",
+  "schema_version": "sporttery-public-v1.4",
   "timezone": "Asia/Shanghai",
-  "latest_success_at": "2026-08-30T11:14:13.267+08:00",
-  "official_history_success_at": "2026-08-30T11:14:13.350+08:00",
+  "latest_success_at": "2026-08-30T13:24:29.850+08:00",
+  "official_history_success_at": "2026-08-30T13:24:30.851+08:00",
   "status": "healthy",
   "current_match_count": 25,
   "official_match_count": 25,
-  "official_node_count": 147,
+  "official_node_count": 233,
+  "preview": {
+    "source_type": "sporttery_official_latest_preview",
+    "history_retained": false,
+    "available": 25,
+    "partial": 0,
+    "unavailable": 0
+  },
   "errors": [],
   "semantics": {
     "official_history": "official_published_at_from_sporttery",
-    "snapshot_history": "observed_at_not_official_publish_time"
+    "snapshot_history": "observed_at_not_official_publish_time",
+    "match_preview": "latest_only_no_history"
   },
-  "dataset_version": "sporttery-20260830-a54b10e2fe523287",
+  "dataset_version": "sporttery-20260830-62555ef8c92aec69",
   "business_date": "2026-08-30",
-  "fetched_at": "2026-08-30T11:14:13.267+08:00",
-  "published_at": "2026-08-30T11:17:55.278+08:00",
+  "fetched_at": "2026-08-30T13:24:29.850+08:00",
+  "published_at": "2026-08-30T13:24:36.034+08:00",
   "match_count": 25,
   "source": "sporttery_public",
   "manifest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/manifest.json",
@@ -24,10 +32,10 @@
   "status_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/status.json",
   "snapshot_history_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/snapshot_history.json",
   "data_status": "ok",
-  "official_history_node_count": 147,
-  "last_success_at": "2026-08-30T11:17:55.278+08:00",
+  "official_history_node_count": 233,
+  "last_success_at": "2026-08-30T13:24:36.034+08:00",
   "last_failure_at": null,
   "validation_errors": [],
   "source_description": "中国体彩网公开数据由本机抓取并校验；公网仅提供规范化只读 JSON。",
-  "checksum": "sha256:6ad526550f71e44506f6fed5cec091f2f72fad01a132504cda4851bb6e09ebc7"
+  "checksum": "sha256:19484b4e02406dfa0fc749f06f57d382126f748ffafe6e4bedd3ce300a367bfe"
 }
