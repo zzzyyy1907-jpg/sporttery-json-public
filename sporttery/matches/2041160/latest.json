@@ -1,0 +1,187 @@
+{
+  "dataset_version": "sporttery-20260830-a54b10e2fe523287",
+  "business_date": "2026-08-30",
+  "fetched_at": "2026-08-30T11:14:13.267+08:00",
+  "match_id": "2041160",
+  "match_num": "周日011",
+  "league": "德甲",
+  "home_team": "弗赖堡",
+  "away_team": "云达不来梅",
+  "kickoff_time": "2026-08-30T21:30:00+08:00",
+  "close_time": null,
+  "close_time_source": "unavailable",
+  "sale_status": "Selling",
+  "single_status": {
+    "any_single_game": true,
+    "by_play_type": {
+      "had": false,
+      "hhad": false,
+      "crs": true,
+      "ttg": true,
+      "hafu": true
+    }
+  },
+  "had": {
+    "availability": "available",
+    "values": {
+      "win": 1.74,
+      "draw": 3.5,
+      "lose": 3.72
+    },
+    "official_updated_at": "2026-08-30T10:14:37+08:00"
+  },
+  "hhad": {
+    "availability": "available",
+    "handicap": -1,
+    "values": {
+      "win": 3.3,
+      "draw": 3.5,
+      "lose": 1.85
+    },
+    "official_updated_at": "2026-08-30T10:14:43+08:00"
+  },
+  "crs": {
+    "availability": "available",
+    "values": {
+      "1:0": 8.5,
+      "2:0": 9,
+      "2:1": 6.75,
+      "3:0": 16,
+      "3:1": 13,
+      "3:2": 21,
+      "4:0": 35,
+      "4:1": 30,
+      "4:2": 50,
+      "5:0": 100,
+      "5:1": 90,
+      "5:2": 125,
+      "胜其它": 45,
+      "0:0": 14,
+      "1:1": 7.25,
+      "2:2": 13,
+      "3:3": 55,
+      "平其它": 300,
+      "0:1": 13,
+      "0:2": 22,
+      "1:2": 11,
+      "0:3": 60,
+      "1:3": 28,
+      "2:3": 34,
+      "0:4": 200,
+      "1:4": 100,
+      "2:4": 125,
+      "0:5": 550,
+      "1:5": 450,
+      "2:5": 450,
+      "负其它": 125
+    },
+    "official_updated_at": "2026-08-29T09:36:26+08:00"
+  },
+  "ttg": {
+    "availability": "available",
+    "values": {
+      "0": 14,
+      "1": 5.5,
+      "2": 3.75,
+      "3": 3.6,
+      "4": 5.05,
+      "5": 9.25,
+      "6": 17,
+      "7+": 24
+    },
+    "official_updated_at": "2026-08-29T09:36:25+08:00"
+  },
+  "hafu": {
+    "availability": "available",
+    "values": {
+      "胜胜": 2.8,
+      "胜平": 15,
+      "胜负": 33,
+      "平胜": 4.95,
+      "平平": 6,
+      "平负": 8.5,
+      "负胜": 23,
+      "负平": 15,
+      "负负": 6.5
+    },
+    "official_updated_at": "2026-08-29T09:36:26+08:00"
+  },
+  "recent_official_changes": {
+    "had": {
+      "previous_official_published_at": "2026-08-29T09:36:18+08:00",
+      "official_published_at": "2026-08-30T10:14:34+08:00",
+      "changed_options": [
+        {
+          "option": "h",
+          "option_label": "胜",
+          "old_price": 1.75,
+          "new_price": 1.74,
+          "price_change": -0.01,
+          "direction": "down",
+          "fair_probability_change_pp": 0.308,
+          "direction_reversal": false
+        },
+        {
+          "option": "d",
+          "option_label": "平",
+          "old_price": 3.5,
+          "new_price": 3.5,
+          "price_change": 0,
+          "direction": "unchanged",
+          "fair_probability_change_pp": 0.008,
+          "direction_reversal": false
+        },
+        {
+          "option": "a",
+          "option_label": "负",
+          "old_price": 3.67,
+          "new_price": 3.72,
+          "price_change": 0.05,
+          "direction": "up",
+          "fair_probability_change_pp": -0.316,
+          "direction_reversal": false
+        }
+      ]
+    },
+    "hhad": {
+      "previous_official_published_at": "2026-08-29T09:36:18+08:00",
+      "official_published_at": "2026-08-30T10:14:38+08:00",
+      "changed_options": [
+        {
+          "option": "h",
+          "option_label": "让胜",
+          "old_price": 3.35,
+          "new_price": 3.3,
+          "price_change": -0.05,
+          "direction": "down",
+          "fair_probability_change_pp": 0.409,
+          "direction_reversal": false
+        },
+        {
+          "option": "d",
+          "option_label": "让平",
+          "old_price": 3.55,
+          "new_price": 3.5,
+          "price_change": -0.05,
+          "direction": "down",
+          "fair_probability_change_pp": 0.364,
+          "direction_reversal": false
+        },
+        {
+          "option": "a",
+          "option_label": "让负",
+          "old_price": 1.82,
+          "new_price": 1.85,
+          "price_change": 0.03,
+          "direction": "up",
+          "fair_probability_change_pp": -0.773,
+          "direction_reversal": false
+        }
+      ]
+    },
+    "crs": null,
+    "ttg": null,
+    "hafu": null
+  },
+  "checksum": "sha256:3dea08cc4077680803f629fa51444e92a3d7d633101ef504188eae150e9bb1dd"
+}

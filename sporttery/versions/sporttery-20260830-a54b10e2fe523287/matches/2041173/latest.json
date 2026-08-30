@@ -1,0 +1,117 @@
+{
+  "dataset_version": "sporttery-20260830-a54b10e2fe523287",
+  "business_date": "2026-08-30",
+  "fetched_at": "2026-08-30T11:14:13.267+08:00",
+  "match_id": "2041173",
+  "match_num": "周日024",
+  "league": "葡超",
+  "home_team": "法马利康",
+  "away_team": "吉维森特",
+  "kickoff_time": "2026-08-31T03:30:00+08:00",
+  "close_time": null,
+  "close_time_source": "unavailable",
+  "sale_status": "Selling",
+  "single_status": {
+    "any_single_game": true,
+    "by_play_type": {
+      "had": false,
+      "hhad": false,
+      "crs": true,
+      "ttg": true,
+      "hafu": true
+    }
+  },
+  "had": {
+    "availability": "available",
+    "values": {
+      "win": 1.93,
+      "draw": 3.05,
+      "lose": 3.55
+    },
+    "official_updated_at": "2026-08-28T09:47:12+08:00"
+  },
+  "hhad": {
+    "availability": "available",
+    "handicap": -1,
+    "values": {
+      "win": 4.25,
+      "draw": 3.45,
+      "lose": 1.66
+    },
+    "official_updated_at": "2026-08-28T09:47:12+08:00"
+  },
+  "crs": {
+    "availability": "available",
+    "values": {
+      "1:0": 6.5,
+      "2:0": 8.5,
+      "2:1": 7,
+      "3:0": 17,
+      "3:1": 16,
+      "3:2": 30,
+      "4:0": 50,
+      "4:1": 50,
+      "4:2": 90,
+      "5:0": 175,
+      "5:1": 175,
+      "5:2": 400,
+      "胜其它": 100,
+      "0:0": 9,
+      "1:1": 6.5,
+      "2:2": 16,
+      "3:3": 90,
+      "平其它": 650,
+      "0:1": 9,
+      "0:2": 18,
+      "1:2": 10.5,
+      "0:3": 50,
+      "1:3": 32,
+      "2:3": 50,
+      "0:4": 250,
+      "1:4": 175,
+      "2:4": 250,
+      "0:5": 650,
+      "1:5": 550,
+      "2:5": 650,
+      "负其它": 350
+    },
+    "official_updated_at": "2026-08-28T09:47:11+08:00"
+  },
+  "ttg": {
+    "availability": "available",
+    "values": {
+      "0": 9,
+      "1": 4.2,
+      "2": 3.25,
+      "3": 3.85,
+      "4": 6.8,
+      "5": 13,
+      "6": 26,
+      "7+": 40
+    },
+    "official_updated_at": "2026-08-28T09:47:11+08:00"
+  },
+  "hafu": {
+    "availability": "available",
+    "values": {
+      "胜胜": 3.25,
+      "胜平": 16,
+      "胜负": 36,
+      "平胜": 5,
+      "平平": 4.9,
+      "平负": 7.6,
+      "负胜": 28,
+      "负平": 16,
+      "负负": 5.8
+    },
+    "official_updated_at": "2026-08-28T09:47:12+08:00"
+  },
+  "recent_official_changes": {
+    "had": null,
+    "hhad": null,
+    "crs": null,
+    "ttg": null,
+    "hafu": null
+  },
+  "checksum": "sha256:70c4669d422233c6764a0b07192fa047a747eb102f1254403088f5874b2dfc6b"
+}
