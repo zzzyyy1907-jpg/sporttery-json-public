@@ -1,12 +1,12 @@
 {
   "schema_version": "sporttery-public-v1.4",
   "timezone": "Asia/Shanghai",
-  "latest_success_at": "2026-08-30T16:02:34.835+08:00",
-  "official_history_success_at": "2026-08-30T16:02:35.467+08:00",
+  "latest_success_at": "2026-08-30T17:42:46.505+08:00",
+  "official_history_success_at": "2026-08-30T17:42:47.513+08:00",
   "status": "healthy",
   "current_match_count": 25,
   "official_match_count": 25,
-  "official_node_count": 296,
+  "official_node_count": 354,
   "preview": {
     "source_type": "sporttery_official_latest_preview",
     "history_retained": false,
@@ -20,10 +20,10 @@
     "snapshot_history": "observed_at_not_official_publish_time",
     "match_preview": "latest_only_no_history"
   },
-  "dataset_version": "sporttery-20260830-3878409f689c8528",
+  "dataset_version": "sporttery-20260830-7fe5b41c205bd273",
   "business_date": "2026-08-30",
-  "fetched_at": "2026-08-30T16:02:34.835+08:00",
-  "published_at": "2026-08-30T16:02:40.257+08:00",
+  "fetched_at": "2026-08-30T17:42:46.505+08:00",
+  "published_at": "2026-08-30T17:42:58.879+08:00",
   "match_count": 25,
   "source": "sporttery_public",
   "manifest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/manifest.json",
@@ -32,10 +32,10 @@
   "status_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/status.json",
   "snapshot_history_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/snapshot_history.json",
   "data_status": "ok",
-  "official_history_node_count": 296,
-  "last_success_at": "2026-08-30T16:02:40.257+08:00",
+  "official_history_node_count": 354,
+  "last_success_at": "2026-08-30T17:42:58.879+08:00",
   "last_failure_at": null,
   "validation_errors": [],
   "source_description": "中国体彩网公开数据由本机抓取并校验；公网仅提供规范化只读 JSON。",
-  "checksum": "sha256:6889e6cfa3aac185ad5851a7fe7231ea42e709b1641518d71e8263605453e29e"
+  "checksum": "sha256:a300896d038b06cdabe22e5938b77aedd8f23b6e5a076c3e66c3b09230532d32"
 }
