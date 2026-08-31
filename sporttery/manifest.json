@@ -1,12 +1,12 @@
 {
   "schema_version": "sporttery-public-manifest-v1.4",
-  "dataset_version": "sporttery-20260831-24dfbd4b561a2da9",
+  "dataset_version": "sporttery-20260831-bfd9f56fb0400285",
   "business_date": "2026-08-31",
-  "fetched_at": "2026-08-31T20:30:54.476+08:00",
-  "published_at": "2026-08-31T20:30:55.281+08:00",
+  "fetched_at": "2026-08-31T21:16:39.303+08:00",
+  "published_at": "2026-08-31T21:16:40.187+08:00",
   "data_status": "ok",
   "match_count": 12,
-  "official_history_node_count": 255,
+  "official_history_node_count": 288,
   "status_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/status.json",
   "latest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/latest.json",
   "official_history_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/official_history.json",
@@ -168,5 +168,5 @@
       "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041186/official_history.json"
     }
   ],
-  "checksum": "sha256:74b28e35b578b2356db92ea4a72d5ff815b4f7729eb33f635a1262f45831024a"
+  "checksum": "sha256:328c21e90b7dd819e2ff00d6c93c1e8f4a63ec8ac5ac324f60ed3cc2017f118b"
 }
