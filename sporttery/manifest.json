@@ -1,107 +1,16 @@
 {
   "schema_version": "sporttery-public-manifest-v1.4",
-  "dataset_version": "sporttery-20260912-23bf539de0fe6ee9",
+  "dataset_version": "sporttery-20260912-ca485f1a886674f6",
   "business_date": "2026-09-12",
-  "fetched_at": "2026-09-12T19:23:54.833+08:00",
-  "published_at": "2026-09-12T19:23:56.896+08:00",
+  "fetched_at": "2026-09-12T21:44:33.523+08:00",
+  "published_at": "2026-09-12T21:44:35.649+08:00",
   "data_status": "ok",
-  "match_count": 26,
-  "official_history_node_count": 342,
+  "match_count": 19,
+  "official_history_node_count": 291,
   "status_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/status.json",
   "latest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/latest.json",
   "official_history_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/official_history.json",
   "matches": [
-    {
-      "match_id": "2041409",
-      "match_num": "周六005",
-      "league": "西甲",
-      "home_team": "桑坦德竞技",
-      "away_team": "阿拉维斯",
-      "kickoff_time": "2026-09-12T20:00:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041409/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041409/official_history.json"
-    },
-    {
-      "match_id": "2041410",
-      "match_num": "周六006",
-      "league": "意甲",
-      "home_team": "热那亚",
-      "away_team": "弗洛西诺内",
-      "kickoff_time": "2026-09-12T21:00:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041410/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041410/official_history.json"
-    },
-    {
-      "match_id": "2041411",
-      "match_num": "周六007",
-      "league": "德甲",
-      "home_team": "弗赖堡",
-      "away_team": "门兴格拉德巴赫",
-      "kickoff_time": "2026-09-12T21:30:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041411/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041411/official_history.json"
-    },
-    {
-      "match_id": "2041412",
-      "match_num": "周六008",
-      "league": "德甲",
-      "home_team": "美因茨",
-      "away_team": "法兰克福",
-      "kickoff_time": "2026-09-12T21:30:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041412/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041412/official_history.json"
-    },
-    {
-      "match_id": "2041413",
-      "match_num": "周六009",
-      "league": "德甲",
-      "home_team": "多特蒙德",
-      "away_team": "帕德博恩",
-      "kickoff_time": "2026-09-12T21:30:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041413/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041413/official_history.json"
-    },
-    {
-      "match_id": "2041414",
-      "match_num": "周六010",
-      "league": "德甲",
-      "home_team": "奥格斯堡",
-      "away_team": "勒沃库森",
-      "kickoff_time": "2026-09-12T21:30:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041414/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041414/official_history.json"
-    },
-    {
-      "match_id": "2041415",
-      "match_num": "周六011",
-      "league": "德甲",
-      "home_team": "霍芬海姆",
-      "away_team": "斯图加特",
-      "kickoff_time": "2026-09-12T21:30:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041415/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041415/official_history.json"
-    },
     {
       "match_id": "2041416",
       "match_num": "周六012",
@@ -350,5 +259,5 @@
       "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041434/official_history.json"
     }
   ],
-  "checksum": "sha256:fe333f7f9a767904f14ae9a9d78610c4d7010c6ec43e8cca4de744b123f93a80"
+  "checksum": "sha256:702a88fdf64d3faedaa14a1c8ddf579764e9ce03cdd28edff8ee2a16a27a31df"
 }
