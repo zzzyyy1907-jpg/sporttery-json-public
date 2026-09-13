@@ -1,55 +1,16 @@
 {
   "schema_version": "sporttery-public-manifest-v1.4",
-  "dataset_version": "sporttery-20260913-551eb973c24acc44",
+  "dataset_version": "sporttery-20260913-5c93e1af1bab398e",
   "business_date": "2026-09-13",
-  "fetched_at": "2026-09-13T20:49:22.556+08:00",
-  "published_at": "2026-09-13T20:49:23.848+08:00",
+  "fetched_at": "2026-09-13T22:06:13.222+08:00",
+  "published_at": "2026-09-13T22:06:16.008+08:00",
   "data_status": "ok",
-  "match_count": 18,
-  "official_history_node_count": 324,
+  "match_count": 15,
+  "official_history_node_count": 278,
   "status_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/status.json",
   "latest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/latest.json",
   "official_history_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/official_history.json",
   "matches": [
-    {
-      "match_id": "2041441",
-      "match_num": "周日007",
-      "league": "意甲",
-      "home_team": "莱切",
-      "away_team": "蒙扎",
-      "kickoff_time": "2026-09-13T21:00:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041441/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041441/official_history.json"
-    },
-    {
-      "match_id": "2041442",
-      "match_num": "周日008",
-      "league": "法甲",
-      "home_team": "里尔",
-      "away_team": "特鲁瓦",
-      "kickoff_time": "2026-09-13T21:00:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041442/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041442/official_history.json"
-    },
-    {
-      "match_id": "2041443",
-      "match_num": "周日009",
-      "league": "德甲",
-      "home_team": "莱比锡红牛",
-      "away_team": "汉堡",
-      "kickoff_time": "2026-09-13T21:30:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041443/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041443/official_history.json"
-    },
     {
       "match_id": "2041444",
       "match_num": "周日010",
@@ -246,5 +207,5 @@
       "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041457/official_history.json"
     }
   ],
-  "checksum": "sha256:4a0488ed094f995d9830217071b6322f0d2d606d245544f87b314d516acc783f"
+  "checksum": "sha256:ade6134af8c9cd7e4aa822ec0dca70b713822678361fbfe95bc9c25ee26e5331"
 }
