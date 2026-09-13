@@ -1,16 +1,16 @@
 {
   "schema_version": "sporttery-public-v1.4",
   "timezone": "Asia/Shanghai",
-  "latest_success_at": "2026-09-13T15:08:02.629+08:00",
-  "official_history_success_at": "2026-09-13T15:08:03.830+08:00",
+  "latest_success_at": "2026-09-13T19:22:16.719+08:00",
+  "official_history_success_at": "2026-09-13T19:22:17.882+08:00",
   "status": "healthy",
-  "current_match_count": 24,
-  "official_match_count": 24,
-  "official_node_count": 254,
+  "current_match_count": 22,
+  "official_match_count": 22,
+  "official_node_count": 321,
   "preview": {
     "source_type": "sporttery_official_latest_preview",
     "history_retained": false,
-    "available": 24,
+    "available": 22,
     "partial": 0,
     "unavailable": 0
   },
@@ -20,11 +20,11 @@
     "snapshot_history": "observed_at_not_official_publish_time",
     "match_preview": "latest_only_no_history"
   },
-  "dataset_version": "sporttery-20260913-9f5c41823817eddf",
+  "dataset_version": "sporttery-20260913-a306c4cb45649126",
   "business_date": "2026-09-13",
-  "fetched_at": "2026-09-13T15:08:02.629+08:00",
-  "published_at": "2026-09-13T15:08:04.168+08:00",
-  "match_count": 24,
+  "fetched_at": "2026-09-13T19:22:16.719+08:00",
+  "published_at": "2026-09-13T19:22:18.334+08:00",
+  "match_count": 22,
   "source": "sporttery_public",
   "manifest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/manifest.json",
   "latest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/latest.json",
@@ -32,10 +32,10 @@
   "status_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/status.json",
   "snapshot_history_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/snapshot_history.json",
   "data_status": "ok",
-  "official_history_node_count": 254,
-  "last_success_at": "2026-09-13T15:08:04.168+08:00",
+  "official_history_node_count": 321,
+  "last_success_at": "2026-09-13T19:22:18.334+08:00",
   "last_failure_at": null,
   "validation_errors": [],
   "source_description": "中国体彩网公开数据由本机抓取并校验；公网仅提供规范化只读 JSON。",
-  "checksum": "sha256:04b4156190a5d4cd959f04da16e5b8b38aded4f258422ea4993e56f2f7116b59"
+  "checksum": "sha256:eb6abaf67c6c6115dbd6ddb104b9167b52a8412ffc8eff3b21bb85617f376671"
 }

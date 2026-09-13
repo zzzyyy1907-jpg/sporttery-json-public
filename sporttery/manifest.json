@@ -1,42 +1,16 @@
 {
   "schema_version": "sporttery-public-manifest-v1.4",
-  "dataset_version": "sporttery-20260913-9f5c41823817eddf",
+  "dataset_version": "sporttery-20260913-a306c4cb45649126",
   "business_date": "2026-09-13",
-  "fetched_at": "2026-09-13T15:08:02.629+08:00",
-  "published_at": "2026-09-13T15:08:04.168+08:00",
+  "fetched_at": "2026-09-13T19:22:16.719+08:00",
+  "published_at": "2026-09-13T19:22:18.334+08:00",
   "data_status": "ok",
-  "match_count": 24,
-  "official_history_node_count": 254,
+  "match_count": 22,
+  "official_history_node_count": 321,
   "status_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/status.json",
   "latest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/latest.json",
   "official_history_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/official_history.json",
   "matches": [
-    {
-      "match_id": "2041435",
-      "match_num": "周日001",
-      "league": "日职",
-      "home_team": "东京绿茵",
-      "away_team": "千叶市原",
-      "kickoff_time": "2026-09-13T17:00:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041435/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041435/official_history.json"
-    },
-    {
-      "match_id": "2041436",
-      "match_num": "周日002",
-      "league": "日乙",
-      "home_team": "仙台七夕",
-      "away_team": "札幌冈萨多",
-      "kickoff_time": "2026-09-13T17:00:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041436/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041436/official_history.json"
-    },
     {
       "match_id": "2041437",
       "match_num": "周日003",
@@ -324,5 +298,5 @@
       "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041457/official_history.json"
     }
   ],
-  "checksum": "sha256:44b756a69ae4bf8731c0323131e66a1bb3caa6abfe555db7f3b61fdf5d11f3ea"
+  "checksum": "sha256:ab0abadcdff7e6bed073217ad292a6ea742d9fbba379f7da32f1d8050c40cb42"
 }
