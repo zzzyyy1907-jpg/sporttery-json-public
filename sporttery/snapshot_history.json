@@ -3,7 +3,7 @@
   "history_type": "local_snapshot",
   "time_semantics": "observed_at_not_official_publish_time",
   "warning": "本文件不是官方完整固定奖金时间线",
-  "updated_at": "2026-09-14T20:26:33.117+08:00",
+  "updated_at": "2026-09-15T20:39:14.973+08:00",
   "snapshots": [
     {
       "fetched_at": "2026-08-29T10:48:32.094+08:00",
@@ -314,6 +314,12 @@
     {
       "fetched_at": "2026-09-14T20:26:33.117+08:00",
       "match_count": 11,
+      "change_count": 0,
+      "validation_status": "partial"
+    },
+    {
+      "fetched_at": "2026-09-15T20:39:14.973+08:00",
+      "match_count": 9,
       "change_count": 0,
       "validation_status": "partial"
     }
@@ -92109,11 +92115,11 @@
       "terminal_reversal_reason": null
     }
   ],
-  "dataset_version": "sporttery-20260914-90cbe246de5e0de2",
-  "business_date": "2026-09-14",
-  "fetched_at": "2026-09-14T20:26:33.117+08:00",
-  "published_at": "2026-09-14T20:26:34.936+08:00",
-  "match_count": 11,
+  "dataset_version": "sporttery-20260915-458a6e944c52e0d8",
+  "business_date": "2026-09-15",
+  "fetched_at": "2026-09-15T20:39:14.973+08:00",
+  "published_at": "2026-09-15T20:39:16.353+08:00",
+  "match_count": 9,
   "source": "sporttery_public",
-  "checksum": "sha256:93995c3e1c9a5504885ce6dce9ece92a2099453972ae2c72238f607ce8eac5c9"
+  "checksum": "sha256:4675e9b53735ae86f22633d56a02c9493eb8d3218e2e91c3746b70bf06b948b6"
 }
