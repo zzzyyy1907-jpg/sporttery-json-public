@@ -1,55 +1,16 @@
 {
   "schema_version": "sporttery-public-manifest-v1.4",
-  "dataset_version": "sporttery-20260916-bd526227eb54abc6",
+  "dataset_version": "sporttery-20260916-c30135c7293bb337",
   "business_date": "2026-09-16",
-  "fetched_at": "2026-09-16T17:03:31.742+08:00",
-  "published_at": "2026-09-16T17:03:33.829+08:00",
+  "fetched_at": "2026-09-16T20:39:50.610+08:00",
+  "published_at": "2026-09-16T20:39:52.238+08:00",
   "data_status": "ok",
-  "match_count": 17,
-  "official_history_node_count": 233,
+  "match_count": 14,
+  "official_history_node_count": 228,
   "status_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/status.json",
   "latest_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/latest.json",
   "official_history_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/official_history.json",
   "matches": [
-    {
-      "match_id": "2041494",
-      "match_num": "周三001",
-      "league": "亚运男足",
-      "home_team": "中国亚运男足",
-      "away_team": "朝鲜亚运男足",
-      "kickoff_time": "2026-09-16T18:00:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041494/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041494/official_history.json"
-    },
-    {
-      "match_id": "2041495",
-      "match_num": "周三002",
-      "league": "亚冠精英",
-      "home_team": "全北现代",
-      "away_team": "柏太阳神",
-      "kickoff_time": "2026-09-16T18:00:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041495/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041495/official_history.json"
-    },
-    {
-      "match_id": "2041496",
-      "match_num": "周三003",
-      "league": "亚运男足",
-      "home_team": "日本亚足",
-      "away_team": "中国香港亚运男足",
-      "kickoff_time": "2026-09-16T18:30:00+08:00",
-      "close_time": null,
-      "close_time_source": "unavailable",
-      "sale_status": "Selling",
-      "latest_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041496/latest.json",
-      "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041496/official_history.json"
-    },
     {
       "match_id": "2041497",
       "match_num": "周三004",
@@ -233,5 +194,5 @@
       "official_history_match_url": "https://zzzyyy1907-jpg.github.io/sporttery-json-public/sporttery/matches/2041508/official_history.json"
     }
   ],
-  "checksum": "sha256:a562f3a52546e45cd88658acc7e6c782f9994c7cab3ac140da27266b80de92b3"
+  "checksum": "sha256:678d62a1d1e3b9d7d3bd25934ab0b2b256d729b6ee937d6a0617c61123c6dc5d"
 }
